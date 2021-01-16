@@ -5,6 +5,7 @@ public class JenkinsPractice {
 		// TODO Auto-generated method stub
 		
 		System.out.println(" hi sumathi");
+		System.out.println(" hi abi");
 
 	}
 
